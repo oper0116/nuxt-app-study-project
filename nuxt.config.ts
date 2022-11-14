@@ -6,6 +6,7 @@ export default defineNuxtConfig({
 		},
 		baseURL: "/",
 	},
+	srcDir: "src",
 	dir: {
 		layouts: "layouts",
 		middleware: "middleware",

@@ -4,8 +4,4 @@
 	</div>
 </template>
 
-<script lang="ts">
-definePageMeta({
-	layout: "custom",
-});
-</script>
+<script lang="ts" setup></script>
