@@ -15,9 +15,6 @@ export default defineNuxtConfig({
     },
     baseURL: "/",
   },
-  devServer: {
-    port: 4000,
-  },
   dir: {
     layouts: "layouts",
     middleware: "middleware",
